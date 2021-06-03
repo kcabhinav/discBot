@@ -1,1 +1,1 @@
-# discBot
+# Discord bot
